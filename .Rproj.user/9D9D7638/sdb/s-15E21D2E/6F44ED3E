@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Clases widget.\nwidget = \"clases\"\nactive = true\ndate = 2016-05-20T00:00:00\n\ntitle = \"Clases\"\nsubtitle = \"\"\n\n# Order that this section will appear in.\nweight = 51\n\n# Content.\n# Display content from the following folder.\n# For example, `folder = \"project\"` displays content from `content/clases/`.\nfolder = \"clases\"\n\n# View.\n# Customize how projects are displayed.\n# Legend: 0 = list, 1 = cards.\nview = 1\n\n# Filter toolbar.\n\n# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).\nfilter_default = 0\n\n# Add or remove as many filters (`[[filter]]` instances) as you like.\n# To show all items, set `tag` to \"*\".\n# To filter by a specific tag, set `tag` to an existing tag name.\n# To remove toolbar, delete/comment all instances of `[[filter]]` below.\n[[filter]]\n  name = \"All\"\n  tag = \"*\"\n\n[[filter]]\n  name = \"Clase 1\"\n  tag = \"Clase 1\"\n\n[[filter]]\n  name = \"Other\"\n  tag = \"Demo\"\n\n+++\n\n",
+    "created" : 1536201071484.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2265624419",
+    "id" : "6F44ED3E",
+    "lastKnownWriteTime" : 1536202881,
+    "last_content_update" : 1536202881511,
+    "path" : "~/Dropbox/github/danieladyro.github.io/academic_hugo/content/home/clases.md",
+    "project_path" : "content/home/clases.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

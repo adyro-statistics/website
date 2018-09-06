@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "+++\n# Date this page was created.\ndate = 2016-04-27T00:00:00\n\n# Project title.\ntitle = \"External Project\"\n\n# Project summary to display on homepage.\nsummary = \"An example of linking directly to an external project website using `external_link`.\"\n\n# Optional image to display on homepage (relative to `static/img/` folder).\nimage_preview = \"boards.jpg\"\n\n# Tags: can be used for filtering projects.\n# Example: `tags = [\"machine-learning\", \"deep-learning\"]`\ntags = [\"Demo\"]\n\n# Optional external URL for project (replaces project detail page).\nexternal_link = \"http://example.org\"\n\n# Does the project detail page use math formatting?\nmath = false\n\n+++",
+    "created" : 1536202916266.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "577244340",
+    "id" : "A710444E",
+    "lastKnownWriteTime" : 1536202941,
+    "last_content_update" : 1536202941860,
+    "path" : "~/Dropbox/github/danieladyro.github.io/academic_hugo/content/project/example-external-project.md",
+    "project_path" : "content/project/example-external-project.md",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
